@@ -1,0 +1,26 @@
+[
+    {
+        "image":"user1",
+        "firsName":"Soykan",
+        "lastName":"Gürler",
+        "age":26
+    },
+    {
+        "image":"user2",
+        "firsName":"Furkan",
+        "lastName":"Gürler",
+        "age":26
+    },
+    {
+        "image":"user3",
+        "firsName":"Fulya",
+        "lastName":"Büyük",
+        "age":28
+    },
+    {
+        "image":"user7",
+        "firsName":"MelikUgur",
+        "lastName":"Gürler",
+        "age":13
+    }
+]
